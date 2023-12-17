@@ -1,5 +1,4 @@
-<h1 align="center"> Привет! Меня зовут Дмитрий.</h1>
-<h3 align="center">Я Python Backend разработчик </h3>
+<img src="header.png" alt="Привет, меня зовут Дмитрий">
 
 <!--
 **dmsnback/dmsnback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
