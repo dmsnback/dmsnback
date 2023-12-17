@@ -4,6 +4,21 @@
 
 <h3 align="center">Мой стек:</h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600&link=https%3A%2F%2Fwww.python.org">
+<img alt="Static Badge" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white&cacheSeconds=3600&link=https%3A%2F%2Fwww.djangoproject.com">
+<img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=Fastapi&logoColor=white&cacheSeconds=3600&link=https%3A%2F%2Ffastapi.tiangolo.com">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white&cacheSeconds=3600&link=https%3A%2F%2Fflask.palletsprojects.com%2Fen%2Flatest%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/aiogram-3-black?style=for-the-badge&logo=aiogram&logoColor=white&labelColor=black&color=grey&cacheSeconds=3600&link=https%3A%2F%2Faiogram.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/python%20telegram%20bot-black?style=for-the-badge&logo=aiogram&logoColor=white&labelColor=black&cacheSeconds=3600&link=https%3A%2F%2Fdocs.python-telegram-bot.org%2Fen%2Flatest%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/scrapy-black?style=for-the-badge&logo=scrapy&logoColor=white&labelColor=black&cacheSeconds=3600&link=https%3A%2F%2Fscrapy.org">
+<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black&cacheSeconds=3600&link=https%3A%2F%2Fgetbootstrap.com">
+<img alt="Static Badge" src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&cacheSeconds=3600&link=https%3A%2F%2Fhtml.spec.whatwg.org">
+
+
+
+
+
+
+
 
 
 
