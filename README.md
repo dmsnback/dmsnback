@@ -1,6 +1,6 @@
 <img src="header.png" alt="Привет, меня зовут Дмитрий">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%D0%AF+Python+Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Code&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=%D0%AF+Python+Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 
 <h3 align="center">Мой стек:</h3>
 
