@@ -21,7 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/gunicorn-black?style=for-the-badge&logo=gunicorn&logoColor=white&labelColor=black&cacheSeconds=3600)
 ![Static Badge](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=white&labelColor=black&cacheSeconds=3600)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dmsnback)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dmsnback&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmsnback)](https://git.io/streak-stats)
 
