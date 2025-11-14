@@ -23,7 +23,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmsnback&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmsnback)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmsnback&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsnback&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
