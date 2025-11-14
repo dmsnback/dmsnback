@@ -25,17 +25,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmsnback&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsnback&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=dmsnback)
 
 
 
 
 
-
-
-<!--
 **dmsnback/dmsnback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,4 +43,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
