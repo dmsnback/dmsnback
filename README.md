@@ -23,4 +23,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmsnback&theme=dark)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=dmsnback)
+![](https://komarev.com/ghpvc/?username=dmsnback&color=lightgrey&style=for-the-badge&label=PROFILE+VIEWS)
